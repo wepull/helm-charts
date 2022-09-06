@@ -304,6 +304,14 @@ config:
         Tag kube.*
         Mem_Buf_Limit 5MB
         Skip_Long_Lines On
+     
+    [INPUT]
+        Name tail
+        Path /var/tmp/Roost/UserCluster/default/roostapi/*.log
+        multiline.parser docker, cri
+        Tag kube.*
+        Mem_Buf_Limit 5MB
+        Skip_Long_Lines On
 
     [INPUT]
         Name systemd
