@@ -111,6 +111,9 @@ volumes:
   - name: luascripts
     configMap:
       name: {{ include "fluent-bit.fullname" . }}-luascripts
+  - name: Roostlogs
+    hostpath:
+      path: /var/tmp/Roost
 {{- end }}
 {{- if eq .Values.kind "DaemonSet" }}
   {{- toYaml .Values.daemonSetVolumes | nindent 2 }}
