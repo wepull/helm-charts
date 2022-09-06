@@ -382,6 +382,9 @@ daemonSetVolumes:
   - name: roostlogs
     hostPath:
       path: /var/tmp/Roost
+  - name: roostuserlogs
+    hostPath:
+      path: /var/tmp/Roost/UserCluster/default/roostapi
   - name: varlibdockercontainers
     hostPath:
       path: /var/lib/docker/containers
@@ -401,6 +404,9 @@ daemonSetVolumeMounts:
     readOnly: true
   - name: roostlogs
     mountPath: /var/tmp/Roost
+    readOnly: true
+  - name: roostuserlogs
+    mountPath: /var/tmp/Roost/UserCluster/default/roostapi
     readOnly: true
 
 args: []
