@@ -370,7 +370,7 @@ daemonSetVolumes:
   - name: varlog
     hostPath:
       path: /var/log
-  - name: Roostlogs
+  - name: roostlogs
     hostPath:
       path: /var/tmp/Roost
   - name: varlibdockercontainers
@@ -390,7 +390,7 @@ daemonSetVolumeMounts:
   - name: etcmachineid
     mountPath: /etc/machine-id
     readOnly: true
-  - name: Roostlogs
+  - name: roostlogs
     mountPath: /var/tmp/Roost
     readOnly: true
 
