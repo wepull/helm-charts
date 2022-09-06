@@ -391,7 +391,7 @@ daemonSetVolumeMounts:
     mountPath: /etc/machine-id
     readOnly: true
   - name: Roostlogs
-    mountpath: /var/tmp/Roost
+    mountPath: /var/tmp/Roost
     readOnly: true
 
 args: []
