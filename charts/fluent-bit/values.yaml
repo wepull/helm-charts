@@ -304,6 +304,14 @@ config:
         Tag kube.*
         Mem_Buf_Limit 5MB
         Skip_Long_Lines On
+        
+    [INPUT]
+        Name tail
+        Path /var/tmp/Roost/roostdockerapi.log
+        multiline.parser docker, cri
+        Tag kube.*
+        Mem_Buf_Limit 5MB
+        Skip_Long_Lines On
 
     [INPUT]
         Name tail
@@ -338,7 +346,8 @@ config:
         
     [OUTPUT]
         Name file
-        Mkdir /var/tmp/Roost/fluentBit
+        Mkdir /var/tmp/Roost/fluentBit/
+        Path /var/tmp/Roost/fluentBit/
         Match kube.*
 
 
