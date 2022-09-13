@@ -343,6 +343,10 @@ config:
     [OUTPUT]
         Name stdout
         Match kube.*
+        
+    [OUTPUT]
+        Name file
+        Match kube.*
 
 
   ## https://docs.fluentbit.io/manual/administration/configuring-fluent-bit/classic-mode/upstream-servers
