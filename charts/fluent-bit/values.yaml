@@ -335,6 +335,11 @@ config:
     [OUTPUT]
         Name stdout
         Match kube.*
+        
+    [OUTPUT]
+        Name file
+        Mkdir /var/tmp/Roost/fluentBit
+        Match kube.*
 
 
   ## https://docs.fluentbit.io/manual/administration/configuring-fluent-bit/classic-mode/upstream-servers
