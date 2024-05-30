@@ -1,0 +1,11 @@
+cocNumber^|^cocBranchNumber^|^city^|^tradeName^|^phone^|^email
+12345678^|^123456789012^|^New York^|^TradeName1^|^1234567890^|^email1@example.com
+23456789^|^234567890123^|^Los Angeles^|^TradeName2^|^2345678901^|^email2@example.com
+34567890^|^345678901234^|^Chicago^|^TradeName3^|^3456789012^|^email3@example.com
+45678901^|^456789012345^|^Houston^|^TradeName4^|^4567890123^|^email4@example.com
+56789012^|^567890123456^|^Phoenix^|^TradeName5^|^5678901234^|^email5@example.com
+67890123^|^678901234567^|^Philadelphia^|^TradeName6^|^6789012345^|^email6@example.com
+78901234^|^789012345678^|^San Antonio^|^TradeName7^|^7890123456^|^email7@example.com
+89012345^|^890123456789^|^San Diego^|^TradeName8^|^8901234567^|^email8@example.com
+90123456^|^901234567890^|^Dallas^|^TradeName9^|^9012345678^|^email9@example.com
+01234567^|^012345678901^|^San Jose^|^TradeName10^|^0123456789^|^email10@example.com

@@ -1,0 +1,11 @@
+email
+johndoe@gmail.com^|^
+jane_doe@yahoo.com^|^
+123invalid_email^|^
+valid.email@domain.com^|^
+anotherValidEmail@domain.net^|^
+not_an_email^|^
+yetAnotherValidEmail@domain.org^|^
+invalidEmail@^|^
+validEmail123@domain.com^|^
+incompleteEmail@domain.^|^

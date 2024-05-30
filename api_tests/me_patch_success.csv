@@ -1,0 +1,11 @@
+name^|^image^|^settings
+John Doe^|^data:image/jpeg;base64,abc123^|^{"theme":"dark","notifications":"on"}
+Jane Smith^|^data:image/jpeg;base64,xyz789^|^{"theme":"light","notifications":"off"}
+Alice Johnson^|^data:image/jpeg;base64,ghi456^|^{"theme":"dark","notifications":"on"}
+Robert Brown^|^data:image/jpeg;base64,def123^|^{"theme":"light","notifications":"off"}
+Emily Davis^|^data:image/jpeg;base64,jkl456^|^{"theme":"dark","notifications":"on"}
+William Wilson^|^data:image/jpeg;base64,mno789^|^{"theme":"light","notifications":"off"}
+Elizabeth Taylor^|^data:image/jpeg;base64,pqr123^|^{"theme":"dark","notifications":"on"}
+Michael Thompson^|^data:image/jpeg;base64,stu456^|^{"theme":"light","notifications":"off"}
+Jessica Anderson^|^data:image/jpeg;base64,vwx789^|^{"theme":"dark","notifications":"on"}
+Thomas Robinson^|^data:image/jpeg;base64,yza123^|^{"theme":"light","notifications":"off"}
