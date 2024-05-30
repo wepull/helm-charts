@@ -1,0 +1,11 @@
+id^|^did^|^name^|^image^|^email^|^settings^|^createdAt^|^updatedAt
+987fbc97-4bed-5078-9f07-9141ba07c9f3^|^DID123^|^John Doe^|^https://example.com/image1.png^|^johndoe@example.com^|^{"language":"en","timezone":"GMT"}^|^2022-01-01T00:00:00^|^2022-01-02T00:00:00
+bc2a9a20-797b-4298-b2c7-518d4a64a483^|^DID456^|^Jane Doe^|^https://example.com/image2.png^|^janedoe@example.com^|^{"language":"fr","timezone":"GMT+1"}^|^2022-01-03T00:00:00^|^2022-01-04T00:00:00
+e6c68e27-b06a-4e5d-a92a-11b8b9fa36b0^|^DID789^|^Bob Smith^|^https://example.com/image3.png^|^bobsmith@example.com^|^{"language":"es","timezone":"GMT-1"}^|^2022-01-05T00:00:00^|^2022-01-06T00:00:00
+a63e4879-f789-4e2c-b613-e58fe650f479^|^DID012^|^Alice Johnson^|^https://example.com/image4.png^|^alicejohnson@example.com^|^{"language":"de","timezone":"GMT+2"}^|^2022-01-07T00:00:00^|^2022-01-08T00:00:00
+d4f63a42-e70e-4e80-8a9b-df8f9cd0ed63^|^DID345^|^Charlie Brown^|^https://example.com/image5.png^|^charliebrown@example.com^|^{"language":"it","timezone":"GMT-2"}^|^2022-01-09T00:00:00^|^2022-01-10T00:00:00
+f8c5e1ee-4c22-46d1-a1a2-5d36bd0c15aa^|^DID678^|^Emily Davis^|^https://example.com/image6.png^|^emilydavis@example.com^|^{"language":"pt","timezone":"GMT+3"}^|^2022-01-11T00:00:00^|^2022-01-12T00:00:00
+b6d954cd-a1dc-4d92-9e42-5b9a1c66e2f2^|^DID901^|^Frank Miller^|^https://example.com/image7.png^|^frankmiller@example.com^|^{"language":"ru","timezone":"GMT-3"}^|^2022-01-13T00:00:00^|^2022-01-14T00:00:00
+c7f3a688-9d40-42cc-ad8d-5e8f3a65c33b^|^DID234^|^Grace Lee^|^https://example.com/image8.png^|^gracelee@example.com^|^{"language":"zh","timezone":"GMT+4"}^|^2022-01-15T00:00:00^|^2022-01-16T00:00:00
+h8b4a5b9-7c50-43db-99e4-6f8f4a76c4c4^|^DID567^|^Henry Wilson^|^https://example.com/image9.png^|^henrywilson@example.com^|^{"language":"ar","timezone":"GMT-4"}^|^2022-01-17T00:00:00^|^2022-01-18T00:00:00
+i9c6b7c8-5d60-44ea-8a8d-7f9f5b87d5d5^|^DID890^|^Irene Taylor^|^https://example.com/image10.png^|^irenetaylor@example.com^|^{"language":"ja","timezone":"GMT+5"}^|^2022-01-19T00:00:00^|^2022-01-20T00:00:00
